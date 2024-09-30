@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 SDCARD_PATH=/media/user/bootfs
-
+# this is sd init script
 CONFIG_TXT=config.txt
 CMDLINE_TXT=cmdline.txt
 
